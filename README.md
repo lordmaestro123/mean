@@ -10,3 +10,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="36" />
 </p>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" width="36" />
