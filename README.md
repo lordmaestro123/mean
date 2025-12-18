@@ -22,4 +22,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/DeepSeek_logo.png"
        width="34"
        style="vertical-align: middle;" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Microsoft_Copilot_Logo.svg"
+       width="34"
+       style="vertical-align: middle;" />
 </p>
