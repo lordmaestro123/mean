@@ -11,13 +11,6 @@
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />
-  <img src="https://cdn.simpleicons.org/texstudio/white" height="30" alt="TeXstudio (LaTeX IDE)" />
 
-  <!-- IA / Ferramentas -->
-  <img src="https://cdn.simpleicons.org/openai/white" height="30" alt="ChatGPT" />
-  <img src="https://cdn.simpleicons.org/deepseek/white" height="30" alt="DeepSeek" />
-
-  <!-- Lexibird -->
-  <img src="https://img.shields.io/badge/Lexibird-AI%20Tool-5A5A5A?style=for-the-badge&logo=googlebard&logoColor=white" height="30" alt="Lexibird" />
-
-</div>
+  <!-- LaTeX IDE (badge confiável) -->
+  <img src="https://img.shiel
