@@ -10,4 +10,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="36" style="filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" width="36" style="filter: invert(1);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/DeepSeek_logo.svg" width="36" />
+
 </p>
