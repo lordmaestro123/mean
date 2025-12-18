@@ -8,6 +8,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="36" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Anaconda_Logo.png" width="36" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/GitHub_Desktop_logo.svg" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" width="36" style="filter: invert(1);" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/DeepSeek_logo.png" width="36" />
 </p>
